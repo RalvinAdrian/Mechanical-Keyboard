@@ -14,7 +14,7 @@
 
 ## Layout
 
-![Keyboard-Layout-Editor](https://imgur.com/a/Qawdbx2)
+![Keyboard-Layout-Editor](https://i.imgur.com/FZiG8QU.png)
 
 ## Keycaps Needed
 
