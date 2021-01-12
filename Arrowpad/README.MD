@@ -3,7 +3,7 @@
 Numpad with split 0 on bottom / Arrow keys.
 
 [Contoh 1](https://i.imgur.com/BzeZXSA.png)
-[Contoh 2] (https://i.imgur.com/lKnF8Ea.png)
+[Contoh 2](https://i.imgur.com/lKnF8Ea.png)
 
 
 ## Bahan yang diperlukan 
