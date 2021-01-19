@@ -33,7 +33,7 @@ Kabel micro usb					| 1pcs								| Skip kalau sudah ada.
 >[OPEN HERE](https://github.com/xSteins/Mechanical-Keyboard/tree/master/Numpad/Acrylic Case)
 
 ## SOURCE CODE 
->[OPEN HERE](https://github.com/xSteins/Mechanical-Keyboard/tree/master/Numpad/Acrylic Hex + Json)
+>[OPEN HERE](https://github.com/xSteins/Mechanical-Keyboard/tree/master/Numpad/Source%20Code Hex + Json)
 
 ## REFERENCE
 >Create layout :
