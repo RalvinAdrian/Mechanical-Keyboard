@@ -7,10 +7,10 @@
 ---
 # Content:
 
-1. Layout
-2. Things you need
-3. Case
-4. Reference
+1. [Layout ](#layout)
+2. [Things you need](#THINGS YOU NEED TO BUY | BAHAN  - BAHAN)
+3. [Case ](# ACRYLIC CASE)
+4. [Reference] (# REFERENCE & APP USED)
 
 ## LAYOUT
 
