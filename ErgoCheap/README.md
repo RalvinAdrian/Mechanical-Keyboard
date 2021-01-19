@@ -8,16 +8,16 @@
 # Content:
 
 1. [Layout ](#layout)
-2. [Things you need](#THINGS YOU NEED TO BUY | BAHAN  - BAHAN)
-3. [Case ](#ACRYLIC CASE)
-4. [Reference](#REFERENCE & APP USED)
+2. [Things you need](#MATERIAL)
+3. [Case ](#CASE)
+4. [Reference](#REFERENCE)
 
 ## LAYOUT
 
 >![65%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/65%25.svg)
 ![75%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/75%25%20blank.svg)
 
-## 	THINGS YOU NEED TO BUY | BAHAN  - BAHAN
+## 	MATERIAL
 
 Material 						| Quantity							| Detail
 ------------ 					| -------------						| -------
@@ -30,11 +30,11 @@ PIN HEADER STRIP MALE L SHAPE	| 1pcs								| Memudahkan wiring ke module.
 Kabel jumper female 20cm		| 40pcs								| kabel.
 Kabel micro usb					| 1pcs								| Skip kalau sudah ada.
 
-## ACRYLIC CASE
+## CASE
 
 >[OPEN HERE](https://github.com/xSteins/Mechanical-Keyboard/tree/master/ErgoCheap/CASE)
 
-## REFERENCE & APP USED
+## REFERENCE
 >Create layout :
 >http://www.keyboard-layout-editor.com/
 >Case Generator
