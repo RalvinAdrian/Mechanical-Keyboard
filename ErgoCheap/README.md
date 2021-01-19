@@ -8,9 +8,9 @@
 # Content:
 
 1. [Layout ](#layout)
-2. [Things you need](#THINGS YOU NEED TO BUY | BAHAN  - BAHAN)
-3. [Case ](# ACRYLIC CASE)
-4. [Reference] (# REFERENCE & APP USED)
+2. [Things you need](#THINGS)
+3. [Case ](#ACRYLIC)
+4. [Reference](#REFERENCE)
 
 ## LAYOUT
 
