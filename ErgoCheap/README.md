@@ -16,7 +16,7 @@
 
 >![65%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/65%25.svg)
 > ### 65% Ergo
-![75%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/75%25%20blank.svg)75%
+![75%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/75%25%20blank.svg)
 > ### 75% Ergo
 ## 	MATERIAL
 
