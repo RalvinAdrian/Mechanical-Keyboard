@@ -13,7 +13,7 @@
 
 ## LAYOUT
 
->![Split 00](https://github.com/xSteins/Mechanical-Keyboard/blob/master/Numpad/split.svg)
+>![Split 00](https://github.com/xSteins/Mechanical-Keyboard/blob/master/Numpad/Split.svg)
 
 ## 	MATERIAL
 
