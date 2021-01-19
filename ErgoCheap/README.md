@@ -38,11 +38,14 @@ Kabel micro usb					| 1pcs								| Skip kalau sudah ada.
 ## REFERENCE
 >Create layout :
 >http://www.keyboard-layout-editor.com/
+
 >Case Generator
 >http://builder.swillkb.com/
+
 >Case design fix
 >https://inkscape.org/
 >https://www.coreldraw.com/en/
+
 >Building the firmware
 >https://kbfirmware.com/
 
