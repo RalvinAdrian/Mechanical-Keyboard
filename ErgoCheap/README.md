@@ -1,6 +1,7 @@
 # ErgoCheap (Handwired, Acrylic Case)
 
 >Ergonomic Keyboard inspired from Arisu keyboard [Maker Github](https://github.com/FateNozomi) *with keycaps size adjustment*
+
 >Keyboard Ergo terinspirasi dari Arisu Keyboard dengan keycap ukuran standar dan MX style switch. 
 ---
 # Content:
