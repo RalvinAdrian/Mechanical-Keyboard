@@ -1,7 +1,3 @@
----
-description: Ergo keyboard
----
-
 # ErgoCheap Keyboards
 
 > ## Content:
