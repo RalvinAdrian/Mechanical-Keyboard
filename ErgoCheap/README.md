@@ -33,7 +33,7 @@ Kabel micro usb					| 1pcs								| Skip kalau sudah ada.
 
 ## CASE
 
->[OPEN HERE](https://github.com/xSteins/Mechanical-Keyboard/tree/master/ErgoCheap/CASE)
+>[Open here](https://github.com/xSteins/Mechanical-Keyboard/tree/master/ErgoCheap/CASE)
 
 ## REFERENCE
 >Create layout :
