@@ -1,6 +1,5 @@
-# onekey handwired
-
-Custom handwired one key keyboard.
+# Ergocheap Handwired
+Custom handwired ergo mechanical keyboard
 
 Keyboard Maintainer: xSteins 
 Hardware Supported: bluepill
