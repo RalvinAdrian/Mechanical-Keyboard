@@ -9,7 +9,8 @@
 
 ### LAYOUT
 
-![65%](.gitbook/assets/65-.svg)
+![65%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/65%25.svg)
+![75%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/75%25.svg)
 
 | Material | Quantity | Detail |
 | :--- | :--- | :--- |
