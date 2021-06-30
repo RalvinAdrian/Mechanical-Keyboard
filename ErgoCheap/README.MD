@@ -25,7 +25,7 @@ Ergonomic Keyboard inspired from Arisu keyboard ([FateNozomi](https://github.com
 
 > [QMK](https://qmk.fm/) is used only for basic support.
 > [VIA](https://caniusevia.com/)* and [VIAL](https://get.vial.today/) also supported.
-*Sideload using json.
+*** *Sideload using json. ***
 You can find it on [this](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/ergocheap) folder
 
 # Material
