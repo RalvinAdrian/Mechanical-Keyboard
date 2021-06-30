@@ -1,50 +1,55 @@
 # ErgoCheap \(Handwired, Acrylic Case\)
 
-> Ergonomic Keyboard inspired from Arisu keyboard [Maker Github](https://github.com/FateNozomi) _with keycaps size adjustment_
->
-> ### Keyboard Ergo terinspirasi dari Arisu Keyboard dengan keycap ukuran standar dan MX style switch.
->
-> ## Content:
+Ergonomic Keyboard inspired from Arisu keyboard ([FateNozomi](https://github.com/FateNozomi)) & Adelheid ([Floookay](https://github.com/floookay/adelheid)) _with keycaps size adjustment_*
+*Ergocheap rev 1.02 use 1,75u right shift because a lot of cheap pbt keycaps already have keys for 1,75u rshift, split spacebar, etc.*
 
-1. [Layout ](./#layout)
-2. [Things you need](./#MATERIAL)
-3. [Case ](./#CASE)
-4. [Reference](./#REFERENCE)
 
-### LAYOUT
+# Content:
+1. [Layout](./#layout)
+2. [Firmware](./#firmware)
+3. [Things you need](./#MATERIAL)
+4. [Case](./#CASE)
+5. [Reference](./#REFERENCE)
 
-> ![65%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/65%25.svg)
->
-> #### 65% Ergo
->
-> ![75%](https://github.com/xSteins/Mechanical-Keyboard/blob/master/ErgoCheap/75%25%20blank.svg)
->
-> #### 75% Ergo
->
-> ### MATERIAL
+# Layout
+---
+![1.02](https://raw.githubusercontent.com/xSteins/Mechanical-Keyboard/master/ErgoCheap/rev1.02.png)
+> ## Ergocheap rev 1.02
 
-| Material | Quantity | Detail |
-| :--- | :--- | :--- |
-| 68 MX Switch \(65%\) / 82 \(\(75%\) | 68pcs / 82pcs | JANGAN BELI PAS-PASAN, MENGHINDARI SWITCH RUSAK. |
-| Durock Plate Mount Stabilizer | 2U x 5pcs | - |
-| 1N418 Diode | 68 / 82 pcs | BELI SPARE 10 kalo gagal pasang. |
-| Keycaps | 1 Set \(104keys\) | Keycaps ukuran standar ANSI. |
-| STM32F103C8T6 ARM STM32 | 1pcs | bisa pake alternatif lain. minimal ada 30 pinout \(tidak bisa pake pro micro!!\) |
-| PIN HEADER STRIP MALE L SHAPE | 1pcs | Memudahkan wiring ke module. |
-| Kabel jumper female 20cm | 40pcs | kabel. |
-| Kabel micro usb | 1pcs | Skip kalau sudah ada. |
+![1.0](https://camo.githubusercontent.com/a2e29123e14f400ca0bab09a4678579adb562bd185ed83faa23b0399d9abfa59/68747470733a2f2f692e696d6775722e636f6d2f494933614259676c2e6a7067)
+> ## Ergocheap rev 1.0 (deprecated)
 
-### CASE
 
-> [OPEN HERE](https://github.com/xSteins/Mechanical-Keyboard/tree/master/ErgoCheap/CASE)
 
-### REFERENCE
+# Firmware
 
-> Create layout : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
+> [QMK](https://qmk.fm/) is used only for basic support.
+> [VIA](https://caniusevia.com/)* and [VIAL](https://get.vial.today/) also supported.
+>  Sideload using json.
+> You can find it on [this](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/ergocheap) folder
+
+# Material
+
+| Material | Quantity |
+| :--- | :--- |
+| MX Style switch | 68pcs |
+| Plate Mount Stabilizer | 2U x 5pcs |
+| 1N418 Diode | 68 |
+| Any keycaps set that has 1,75u rshift and split spacebar.(rev 1.02)|
+| STM32F103C8T6 ARM STM32 | 1pcs |
+| PIN HEADER STRIP MALE L SHAPE | 1pcs |
+| AWG 30 Cable or something similar | 40pcs |
+
+# Case
+
+> Open [here.](https://github.com/xSteins/Mechanical-Keyboard/tree/master/ErgoCheap/CASE)
+
+# Reference
+
+> Create Layout : [http://www.keyboard-layout-editor.com/](http://www.keyboard-layout-editor.com/)
 >
 > Case Generator [http://builder.swillkb.com/](http://builder.swillkb.com/)
 >
-> Case design fix [https://inkscape.org/](https://inkscape.org/) [https://www.coreldraw.com/en/](https://www.coreldraw.com/en/)
->
-> Building the firmware [https://kbfirmware.com/](https://kbfirmware.com/)
+> Design Adjustment[https://www.coreldraw.com/en/](https://www.coreldraw.com/en/)
+
 
